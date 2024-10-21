@@ -1,3 +1,4 @@
+- [DeepSeek API Docs](https://api-docs.deepseek.com/zh-cn/) deepseek_doc
 - [书签收藏](https://nekonull.me/posts/llm_x_bookmark/) bookmark
 
 # About
